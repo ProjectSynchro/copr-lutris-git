@@ -68,7 +68,7 @@ do is play the game. It aims to support every game that is playable
 on Linux.
 
 %prep
-%autosetup -n %{name}-%{version} -p1
+%autosetup -n %{name}-%{commit} -p1
 
 %generate_buildrequires
 %pyproject_buildrequires
