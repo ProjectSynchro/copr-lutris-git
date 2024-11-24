@@ -1,6 +1,6 @@
-%global commit c9034a34f6162b06a47fcd772b0f8e237023afd8
+%global commit 55f22777085f12d7ac5f184af779b015f480f901
 %global shortcommit %(c=%{commit}; echo ${c:0:7})
-%global git_date 20241124T110306Z
+%global git_date 20241124T113343Z
 %global tag v0.5.17
 %global clean_tag %(echo %{tag} | sed 's/^v//')
 
