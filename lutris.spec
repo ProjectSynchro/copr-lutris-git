@@ -95,14 +95,14 @@ desktop-file-install --dir=%{buildroot}%{_datadir}/applications share/applicatio
 %{_bindir}/%{name}
 %{_datadir}/%{name}/
 %{_datadir}/applications/net.%{name}.Lutris.desktop
-%{_datadir}/icons/hicolor/scalable/apps/%{name}.svg
-%{_datadir}/icons/hicolor/16x16/apps/%{name}.png
-%{_datadir}/icons/hicolor/22x22/apps/%{name}.png
-%{_datadir}/icons/hicolor/24x24/apps/%{name}.png
-%{_datadir}/icons/hicolor/32x32/apps/%{name}.png
-%{_datadir}/icons/hicolor/48x48/apps/%{name}.png
-%{_datadir}/icons/hicolor/64x64/apps/%{name}.png
-%{_datadir}/icons/hicolor/128x128/apps/%{name}.png
+%{_datadir}/icons/hicolor/scalable/apps/net.lutris.Lutris.svg
+%{_datadir}/icons/hicolor/16x16/apps/net.lutris.Lutris.png
+%{_datadir}/icons/hicolor/22x22/apps/net.lutris.Lutris.png
+%{_datadir}/icons/hicolor/24x24/apps/net.lutris.Lutris.png
+%{_datadir}/icons/hicolor/32x32/apps/net.lutris.Lutris.png
+%{_datadir}/icons/hicolor/48x48/apps/net.lutris.Lutris.png
+%{_datadir}/icons/hicolor/64x64/apps/net.lutris.Lutris.png
+%{_datadir}/icons/hicolor/128x128/apps/net.lutris.Lutris.png
 %{_datadir}/man/man1/%{name}.1.gz
 # Some files being missed by the Python macros
 %{python3_sitelib}/%{name}/__pycache__/optional_settings.*.pyc
