@@ -1,3 +1,6 @@
+> ⚠️ **Notice:**  
+> This project has migrated to **[Codeberg](https://codeberg.org/Synchro/copr-lutris-git)**. 
+
 # Copr repository for Lutris Git Builds
 
 Lutris is a gaming platform for GNU/Linux. Its goal is to make gaming on Linux as easy as possible by taking care of installing and setting up the game for the user. 
